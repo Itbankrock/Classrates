@@ -1,3 +1,4 @@
+// mama mo
 function submitComment(commentControl) {
     var comments = document.getElementsByName(commentControl)[0].value;
     var subscriptionKey = "1e151d2cfe56476284635495e8ed911d";
